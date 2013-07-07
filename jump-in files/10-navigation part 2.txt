@@ -1,0 +1,44 @@
+Remove the navigation currently on the site and copy in this code: 
+
+
+       		<nav class="navbar">
+  					<div class="navbar-inner">
+    					<div class="container">
+                          <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                          </a>
+                          <a class="brand" href="index.html">Fruit is Good</a>
+                          <!-- Everything you want hidden at 940px or less, place within here -->
+                          <div class="nav-collapse collapse">
+                                <ul class="nav">
+                                  <li class="active"><a href="index.html">Home</a></li>
+                                  <li><a href="apples.html">Apples</a></li>
+                                  <li><a href="oranges.html">Citrus</a></li>
+                                  <li><a href="bananas.html">Bananas</a></li>
+                                  <li><a href="gallery.html">Gallery</a></li>
+                                </ul>
+      					  </div>
+    					</div>
+  					</div>
+                </nav>
+
+
+Add the classes  navbar-fixed-top, navbar-inverse to fix the nav bar to the top of the page and change it from white to black.
+
+
+Markup for the "adidas" button (shows at small screen sizes):
+                          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                          </a>
+
+
+Markup for site brand (optional)
+<a class="brand" href="index.html">Fruit is Good</a>
+
+
+http://twitter.github.io/bootstrap/components.html#navbar

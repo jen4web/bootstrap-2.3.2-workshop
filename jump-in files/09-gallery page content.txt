@@ -1,0 +1,47 @@
+Content for the gallery page
+
+Navigation
+
+			<nav>
+                                <ul class="nav nav-pills">
+                                  <li><a href="index.html">Home</a></li>
+                                  <li><a href="apples.html">Apples</a></li>
+                                  <li><a href="oranges.html">Citrus</a></li>
+                                  <li><a href="bananas.html">Bananas</a></li>
+                                  <li class="active"><a href="gallery.html">Gallery</a></li>
+                                </ul>
+                	</nav>
+
+
+
+
+
+Left column
+
+                <img src="img/cherry-300.jpg" alt="Cherries! ">
+                <blockquote>
+                    <p>The man for me is the cherry on the pie. But I'm the pie and my pie is good all by itself. Even if I don't have a cherry.</p>
+                    <small>Halle Berry</small>
+                </blockquote>
+
+
+
+
+Right column
+
+
+           	  <h2>Fruit Gallery</h2>
+              <p>Below are stunning thumbnails of fruit. Click to see the larger version of each.</p>          
+              <!-- thumbnails, using thumbnail markup -->
+			  <ul>
+              	<li><a href="img/large/raspberries.jpg"><img src="img/thumbs/raspberries.jpg" alt="Raspberries. "></a></li>
+                <li><a href="img/large/blueberries.jpg"><img src="img/thumbs/blueberries.jpg" alt="Blueberries. "></a></li>
+              	<li><a href="img/large/tangerine.jpg"><img src="img/thumbs/tangerine.jpg" alt="Tangerine. "></a></li>
+              	<li><a href="img/large/strawberries.jpg"><img src="img/thumbs/strawberries.jpg" alt="Strawberries. "></a></li>
+              </ul>
+              <ul>
+                <li><a href="img/large/slice.jpg"><img src="img/thumbs/slice.jpg" alt="Orange slice. "></a></li>
+              	<li><a href="img/large/fruit.jpg"><img src="img/thumbs/fruit.jpg" alt="Fruit. "></a></li>
+              	<li><a href="img/large/berries.jpg"><img src="img/thumbs/berries.jpg" alt="Berries. "></a></li>
+              	<li><a href="img/large/lime.jpg"><img src="img/thumbs/lime.jpg" alt="Lime. "></a></li>
+              </ul>

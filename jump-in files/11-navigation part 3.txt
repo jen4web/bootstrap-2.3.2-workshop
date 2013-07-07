@@ -1,0 +1,30 @@
+To create the dropdown menu, remove <li><a href="oranges.html">Citrus</a></li> and replace with:
+
+
+
+       							<li><a href="#">Citrus</a>
+                                  	<ul>
+                                    	<li><a href="oranges.html">Oranges</a></li>
+                                        <li><a href="#">Limes</a></li>
+                                        <li><a href="#">Lemons</a></li>
+                                    </ul>
+                                  </li>
+
+Add a class of "dropdown" to LI
+Add a class of "dropdown-toggle" to the first A
+Add <b class="caret"></b> next to Citrus -- this creates the dropdown character
+Add a class of "dropdown-menu" to the nested UL
+Add  data-toggle="dropdown" to the first A -- this binds the Javascript to the tag to make the dropdown occur.
+
+
+http://twitter.github.io/bootstrap/javascript.html#dropdowns
+
+Final markup:
+
+       		<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Citrus <b class="caret"></b></a>
+                                  	<ul class="dropdown-menu">
+                                    	<li><a href="oranges.html">Oranges</a></li>
+                                        <li><a href="#">Limes</a></li>
+                                        <li><a href="#">Lemons</a></li>
+                                    </ul>
+                                  </li>

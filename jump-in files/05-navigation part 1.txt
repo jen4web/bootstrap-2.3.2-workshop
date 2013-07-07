@@ -1,0 +1,17 @@
+Place inside of navigation section of the grid.
+
+			<nav>
+                                <ul>
+                                  <li class="active"><a href="index.html">Home</a></li>
+                                  <li><a href="apples.html">Apples</a></li>
+                                  <li><a href="oranges.html">Citrus</a></li>
+                                  <li><a href="bananas.html">Bananas</a></li>
+                                  <li><a href="gallery.html">Gallery</a></li>
+                                </ul>
+                	</nav>
+
+Add class of nav to UL to make this a nav bar.
+
+nav-pills or nav-tabs added to the UL styling will make pills or tabs.
+
+http://twitter.github.io/bootstrap/components.html#navs

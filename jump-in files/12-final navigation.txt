@@ -1,0 +1,33 @@
+ Below is the final navigation for the site, with the integrated dropdown menu. You will need to move the class of "active" to the correct top-level menu item on the appropriate pages. Below is set for the home page.
+ 
+ 
+ 
+        		<nav class="navbar navbar-fixed-top navbar-inverse">
+  					<div class="navbar-inner">
+    					<div class="container">
+                          <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                          </a>
+                          <a class="brand" href="index.html">Fruit is Good</a>
+                          <!-- Everything you want hidden at 940px or less, place within here -->
+                          <div class="nav-collapse collapse">
+                                <ul class="nav">
+                                  <li class="active"><a href="index.html">Home</a></li>
+                                  <li><a href="apples.html">Apples</a></li>
+                                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Citrus <b class="caret"></b></a>
+                                  	<ul class="dropdown-menu">
+                                    	<li><a href="oranges.html">Oranges</a></li>
+                                        <li><a href="#">Limes</a></li>
+                                        <li><a href="#">Lemons</a></li>
+                                    </ul>
+                                  </li>
+                                  <li><a href="bananas.html">Bananas</a></li>
+                                  <li><a href="gallery.html">Gallery</a></li>
+                                </ul>
+      					  </div>
+    					</div>
+  					</div>
+                </nav>

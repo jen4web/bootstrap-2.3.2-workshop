@@ -1,0 +1,38 @@
+Content for the orange page
+
+Navigation
+
+			<nav>
+                                <ul class="nav nav-pills">
+                                  <li><a href="#">Home</a></li>
+                                  <li><a href="apples.html">Apples</a></li>
+                                  <li class="active"><a href="oranges.html">Citrus</a></li>
+                                  <li><a href="bananas.html">Bananas</a></li>
+                                  <li><a href="gallery.html">Gallery</a></li>
+                                </ul>
+                	</nav>
+
+
+
+
+
+Left column
+
+                <a href="apples.html"><img src="img/orange-300.jpg" alt="Oranges! "></a>
+                <blockquote>
+                    <p>&quot;I've pretty much given up on the orange. I really have. I just don't even bother. It's just either sour, or woody, or the skin's too thick. It's very nice when you come across the perfect orange, because it's really a beautiful experience. But the stakes are too high.</a></p>
+                    <small>Scott Thompson</small>
+                </blockquote>
+
+
+
+
+Right column
+
+
+<h2>Oranges</h2>
+                <p><img src="img/orange-400.jpg" alt="Green apples! " class="pull-right img-polaroid">The <strong>orange</strong> (specifically, the <strong>sweet orange</strong>) is the <a href="http://en.wikipedia.org/wiki/Fruit" title="Fruit">fruit</a> of the <a href="http://en.wikipedia.org/wiki/Citrus" title="Citrus">citrus</a> species <em>Citrus <a href="http://en.wikipedia.org/wiki/Hybrid_name" title="Hybrid name">×</a> ?sinensis</em> in the <a href="http://en.wikipedia.org/wiki/Family_(biology)" title="Family (biology)">family</a><a href="http://en.wikipedia.org/wiki/Rutaceae" title="Rutaceae">Rutaceae</a>.<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-usda_-2">[2]</a> The fruit of the <em>Citrus sinensis</em> is called sweet orange to distinguish it from that of the <em>Citrus aurantium</em>, the<a href="http://en.wikipedia.org/wiki/Bitter_orange" title="Bitter orange">bitter orange</a>. The orange is a <a href="http://en.wikipedia.org/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybrid</a>, possibly between <a href="http://en.wikipedia.org/wiki/Pomelo" title="Pomelo">pomelo</a> (<em>Citrus maxima</em>) and <a href="http://en.wikipedia.org/wiki/Mandarin_orange" title="Mandarin orange">mandarin</a> (<em>Citrus reticulata</em>), cultivated since ancient times.<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-Nicolosi-3">[3]</a></p>
+                <p>Probably originated in <a href="http://en.wikipedia.org/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>,<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-ars-grin.gov-4">[4]</a> oranges were already cultivated in China as far back as 2500 BC. Between the late 15th century and the beginnings of the 16th century, Italian and Portuguese merchants brought orange trees in the Mediterranean area. The Spanish introduced the sweet orange to the American continent in the mid-1500s.</p>
+                <p>Orange trees are widely grown in tropical and subtropical climates for its sweet fruit, which can be eaten fresh or processed to obtain juice, and for its fragrant peel.<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-ars-grin.gov-4">[4]</a> They have been the most <a href="http://en.wikipedia.org/wiki/Tillage" title="Tillage">cultivated</a> tree fruit in the world since 1987,<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-morton-5">[5]</a> and sweet oranges account for approximately 70% of the citrus production.<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-citrusgenomedb.org-6">[6]</a> In 2010, 68.3 million tonnes of oranges were grown worldwide, particularly in Brazil and in the US states of California<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-7">[7]</a> and Florida.<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-8">[8]</a></p>
+                <p>The origin of the term <em>orange</em> is presumably the <a href="http://en.wikipedia.org/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> word for "orange tree" (???????, <em>nara?ga</em>),<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-Collins-9">[9]</a> whose form has changed over time, after passing through numerous intermediate languages. The fruit is known as "Chinese apple" in several modern languages. Some examples are Dutch <em>sinaasappel</em><a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-10">[10]</a> (literally, "China's apple") and <em>appelsien</em>, or <a href="http://en.wikipedia.org/wiki/Low_German" title="Low German">Low German</a> <em>Apfelsine</em>. In English, however, <em>Chinese apple</em> usually refers to the <a href="http://en.wikipedia.org/wiki/Pomegranate" title="Pomegranate">pomegranate</a>.<a href="http://en.wikipedia.org/wiki/Orange_(fruit)#cite_note-11">[11]</a></p>
+                <p><em><a href="http://en.wikipedia.org/wiki/Orange_(fruit)" target="_blank">From Wikipedia</a></em></p>

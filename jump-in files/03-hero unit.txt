@@ -1,0 +1,19 @@
+Hero unit -- remove the div class span12 inside of the row and replace with code below.  
+
+		<div class="hero-unit">
+                	<img src="img/fruit-500.jpg" alt=" Fruit is yummy! ">
+                    <h1>Fruit is delicious</h1>
+                    <p>Fruit makes a great snack, or slice it up and eat it with a meal. Portable, sweet, and filling, you can take fruit anywhere, even to a Bootstrap workshop!</p>
+                </div>
+				
+				
+				
+				Additional classes added:
+				
+				To the div/hero-unit, additional classes  clearfix -- clears the image,  page-header -- give space from the nav bar
+				
+				To the image tag, add classes  img-circle -- turns image into a circle. 
+				Other image classes include img-polaroid, img-rounded 
+				pull-right -- floats the image right. Guess what to use for making the image float left instead?
+				
+				http://twitter.github.io/bootstrap/components.html#typography

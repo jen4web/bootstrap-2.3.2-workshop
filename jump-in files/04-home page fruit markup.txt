@@ -1,0 +1,40 @@
+<!-- Bits of HTML markup belonging in the boxes on the home page.  -->              
+
+
+	<h3>Apples</h3>
+        <p><a href="apples.html"><img src="img/apple-300.jpg" alt="Apples! "></a></p>
+        <p>Yummy delicious apples.</p>
+        <p><a href="apples.html">Read more &gt;&gt;</a></p>	
+
+
+
+<h3>Bananas</h3>
+<p><a href="bananas.html"><img src="img/bananas-300.jpg" alt="Bananas! "></a></p>
+<p>Yummy delicious bananas.</p>
+<p><a href="bananas.html">Read more &gt;&gt;</a></p>
+
+
+
+                <h3>Oranges</h3>
+                <p><a href="oranges.html"><img src="img/orange-300.jpg" alt="Orange! "></a></p>
+                <p>Yummy delicious oranges.</p>
+                <p><a href="oranges.html">Read more &gt;&gt;</a></p>
+
+
+
+                <h3>Fruit Gallery</h3>
+                <p><a href="gallery.html"><img src="img/cherry-300.jpg" alt="Cherries! "></a></p>
+                <p>Yummy delicious fruit of all kinds.</p>
+                <p><a href="gallery.html">Read more &gt;&gt;</a></p>
+
+
+
+
+In addition to the above markup, we added classes to the "read more" links, to the a tag markup. 
+http://twitter.github.io/bootstrap/base-css.html#buttons
+
+btn: makes it a button
+btn-mini, btn-small, btn-large -- changes size
+btn-primary, btn-info, btn-success, btn-warning, btn-danger, btn-inverse -- changes color
+
+Color is determined via LESS. You can override color either by writing a custom style in custom.css or by tweaking the LESS variable (covered later in this workshop).

@@ -1,0 +1,22 @@
+  Completed thumbnail markup below.
+  Add class of "thumbnails" to the UL's
+  Add class of "span3" to the LI's
+  Add class of "thumbnail" to A's
+  
+  http://twitter.github.io/bootstrap/components.html#thumbnails
+  
+       
+              <!-- thumbnails, using thumbnail markup -->
+              <ul class="thumbnails">
+              	<li class="span3"><a href="img/large/raspberries.jpg" class="thumbnail"><img src="img/thumbs/raspberries.jpg" alt="Raspberries. "></a></li>
+                <li class="span3"><a href="img/large/blueberries.jpg" class="thumbnail"><img src="img/thumbs/blueberries.jpg" alt="Blueberries. "></a></li>
+              	<li class="span3"><a href="img/large/tangerine.jpg" class="thumbnail"><img src="img/thumbs/tangerine.jpg" alt="Tangerine. "></a></li>
+              	<li class="span3"><a href="img/large/strawberries.jpg" class="thumbnail"><img src="img/thumbs/strawberries.jpg" alt="Strawberries. "></a></li>
+              </ul>
+              <ul class="thumbnails">
+                <li class="span3"><a href="img/large/slice.jpg" class="thumbnail"><img src="img/thumbs/slice.jpg" alt="Orange slice. "></a></li>
+              	<li class="span3"><a href="img/large/fruit.jpg" class="thumbnail"><img src="img/thumbs/fruit.jpg" alt="Fruit. "></a></li>
+              	<li class="span3"><a href="img/large/berries.jpg" class="thumbnail"><img src="img/thumbs/berries.jpg" alt="Berries. "></a></li>
+              	<li class="span3"><a href="img/large/lime.jpg" class="thumbnail"><img src="img/thumbs/lime.jpg" alt="Lime. "></a></li>
+              </ul>
+          
